@@ -1,6 +1,7 @@
 # config  - security
 
 git config --global credential.helper wincred
+git config --global push.default simple
 
 
 # config - aliases
